@@ -1,0 +1,264 @@
+TNumberToBiner
+v7
+r0
+t363460642.881666
+cCheck dependencies
+cProcessInfoPlistFile /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Info.plist NumberToBiner-Info.plist
+cCopyStringsFile /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib
+cCpResource build/Debug/NumberToBiner.app/Contents/Resources/Credits.html Credits.html
+cProcessPCH /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch.gch NumberToBiner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/main.o /Users/giriputra/LAB/XCode/NumberToBiner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBinerAppDelegate.o /Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/Converter.o /Users/giriputra/LAB/XCode/NumberToBiner/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner normal x86_64
+cTouch /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004F29014500000000000000EE
+t1328087365
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/Converter.h
+c000000004FF887670000000000000159
+t1341687655
+s345
+i<Cocoa/Cocoa.h>
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/Converter.m
+c000000004FF9BEDC000000000000045E
+t1341767388
+s1118
+i"Converter.h"
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/Credits.html
+c000000004FF9BD2000000000000000D5
+t1341766944
+s213
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/Credits.rtf
+c000000004FF9BC78000000000000015C
+t1341766776
+s348
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/InfoPlist.strings
+c000000004FF8856E000000000000002D
+t1341687150
+s45
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib
+c000000004FF9B41F000000000000F2D0
+t1341764639
+s62160
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.h
+c000000004FF8856E0000000000000159
+t1341687150
+s345
+i<Cocoa/Cocoa.h>
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m
+c000000004FF8856E0000000000000194
+t1341687150
+s404
+i"NumberToBinerAppDelegate.h"
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBiner_Prefix.pch
+c000000004FF8856E000000000000009D
+t1341687150
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app
+t1341767842
+s102
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Info.plist
+t1341766747
+s1297
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner
+t1341767842
+s15928
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/PkgInfo
+t1341766747
+s8
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/Credits.html
+t1341766945
+s213
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/Credits.rtf
+t1341766777
+s348
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1341688101
+s92
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/MainMenu.nib
+t1341764831
+s9726
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/Converter.o
+t1341767841
+s16632
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBiner.LinkFileList
+c000000004FF889250000000000000187
+t1341688101
+s391
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBinerAppDelegate.o
+t1341688106
+s21264
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/main.o
+t1341688106
+s5000
+
+N/Users/giriputra/LAB/XCode/NumberToBiner/main.m
+c000000004FF8856E000000000000010F
+t1341687150
+s271
+i<Cocoa/Cocoa.h>
+
+N/var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch.gch
+t1341688105
+s54306576
+
+NNumberToBiner-Info.plist
+c000000004FF9BC5B00000000000003E5
+t1341766747
+s997
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363460640#363460640#0(0"0(0#1#0"8639879168#0"0#
+
+CCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/Converter.o /Users/giriputra/LAB/XCode/NumberToBiner/Converter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s363460640.495408
+e363460641.304357
+r1
+xCompileC
+xbuild/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/Converter.o
+x/Users/giriputra/LAB/XCode/NumberToBiner/Converter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/giriputra/LAB/XCode/NumberToBiner/Converter.m363460640#363460641#0(0"0(0#0#52"/Users/giriputra/LAB/XCode/NumberToBiner/Converter.m8638110944#1602"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-generated-files.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-project-headers.hmap -F/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -I/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/include -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources -include /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch -c /Users/giriputra/LAB/XCode/NumberToBiner/Converter.m -o /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/Converter.o0#
+
+CCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBinerAppDelegate.o /Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s363380905.789267
+e363380906.110022
+r1
+xCompileC
+xbuild/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBinerAppDelegate.o
+x/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m363380905#363380906#0(0"0(0#0#67"/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m8638729568#1632"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-generated-files.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-project-headers.hmap -F/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -I/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/include -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources -include /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch -c /Users/giriputra/LAB/XCode/NumberToBiner/NumberToBinerAppDelegate.m -o /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBinerAppDelegate.o0#
+
+CCompileC build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/main.o /Users/giriputra/LAB/XCode/NumberToBiner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s363380905.788278
+e363380906.096786
+r1
+xCompileC
+xbuild/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/main.o
+x/Users/giriputra/LAB/XCode/NumberToBiner/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/giriputra/LAB/XCode/NumberToBiner/main.m363380905#363380906#0(0"0(0#0#47"/Users/giriputra/LAB/XCode/NumberToBiner/main.m8618681344#1592"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-generated-files.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-project-headers.hmap -F/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -I/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/include -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources -include /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch -c /Users/giriputra/LAB/XCode/NumberToBiner/main.m -o /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib
+s363457628.731481
+e363457631.449790
+r1
+xCompileXIB
+x/Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib363457628#363457631#0(0"0(0#0#67"/Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib8624906144#376"    cd /Users/giriputra/LAB/XCode/NumberToBiner    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/MainMenu.nib /Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s363380901.574882
+e363380901.975752
+r1
+xCopyStringsFile
+x/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+o/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /usr in PATH, mode 040777
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings363380901#363380901#0(157"/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /usr in PATH, mode 0407770(0#0#72"/Users/giriputra/LAB/XCode/NumberToBiner/English.lproj/InfoPlist.strings8629094880#375"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/NumberToBiner.app/Contents/Resources/Credits.html Credits.html
+s363459745.155814
+e363459745.161544
+r1
+xCpResource
+xbuild/Debug/NumberToBiner.app/Contents/Resources/Credits.html
+xCredits.html
+lSLF07#2@17"Copy Credits.html363459745#363459745#0(0"0(0#0#53"/Users/giriputra/LAB/XCode/NumberToBiner/Credits.html8642236128#354"    cd /Users/giriputra/LAB/XCode/NumberToBiner    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/giriputra/LAB/XCode/NumberToBiner/Credits.html /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources0#
+
+CCpResource build/Debug/NumberToBiner.app/Contents/Resources/Credits.rtf Credits.rtf
+s363459577.061426
+e363459577.067074
+r1
+xCpResource
+xbuild/Debug/NumberToBiner.app/Contents/Resources/Credits.rtf
+xCredits.rtf
+lSLF07#2@16"Copy Credits.rtf363459577#363459577#0(0"0(0#0#52"/Users/giriputra/LAB/XCode/NumberToBiner/Credits.rtf8630411392#353"    cd /Users/giriputra/LAB/XCode/NumberToBiner    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/giriputra/LAB/XCode/NumberToBiner/Credits.rtf /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Resources0#
+
+CLd /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner normal x86_64
+s363460641.304440
+e363460642.876649
+r1
+xLd
+x/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner
+xnormal
+xx86_64
+lSLF07#2@104"Link /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner363460641#363460642#0(0"0(0#0#0"8617714912#582"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -F/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -filelist /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/Objects-normal/x86_64/NumberToBiner.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/MacOS/NumberToBiner0#
+
+CProcessInfoPlistFile /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Info.plist NumberToBiner-Info.plist
+s363459547.488350
+e363459547.512137
+r1
+xProcessInfoPlistFile
+x/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Info.plist
+xNumberToBiner-Info.plist
+lSLF07#2@32"Process NumberToBiner-Info.plist363459547#363459547#0(0"0(0#0#65"/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBiner-Info.plist8619832768#334"    cd /Users/giriputra/LAB/XCode/NumberToBiner    builtin-infoPlistUtility NumberToBiner-Info.plist -genpkginfo /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch.gch NumberToBiner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s363380902.017919
+e363380905.788124
+r1
+xProcessPCH
+x/var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch.gch
+xNumberToBiner_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile NumberToBiner_Prefix.pch363380902#363380905#0(0"0(0#0#65"/Users/giriputra/LAB/XCode/NumberToBiner/NumberToBiner_Prefix.pch8619057824#1490"    cd /Users/giriputra/LAB/XCode/NumberToBiner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-generated-files.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/NumberToBiner-project-headers.hmap -F/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug -I/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/include -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/NumberToBiner/build/NumberToBiner.build/Debug/NumberToBiner.build/DerivedSources -c /Users/giriputra/LAB/XCode/NumberToBiner/NumberToBiner_Prefix.pch -o /var/folders/JE/JEOOSVaoFRSYpY2rYlFhFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToBiner_Prefix-cmwmarfyriipqmeqfhmxczrzkpif/NumberToBiner_Prefix.pch.gch0#
+
+CTouch /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app
+s363460642.877095
+e363460642.881620
+r1
+xTouch
+x/Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app
+lSLF07#2@76"Touch /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app363460642#363460642#0(0"0(0#0#0"8629989600#141"    cd /Users/giriputra/LAB/XCode/NumberToBiner    /usr/bin/touch -c /Users/giriputra/LAB/XCode/NumberToBiner/build/Debug/NumberToBiner.app0#
+

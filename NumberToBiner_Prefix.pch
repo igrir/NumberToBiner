@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NumberToBiner' target in the 'NumberToBiner' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
